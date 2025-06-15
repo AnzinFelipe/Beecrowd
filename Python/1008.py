@@ -1,8 +1,8 @@
 # Salário
 
-num = int(input(""))
-hora = int(input(""))
-valor = float(input(""))
+num = int(input())
+hora = int(input())
+valor = float(input())
 
 salario = valor * hora
 
